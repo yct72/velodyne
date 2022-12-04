@@ -1,0 +1,2 @@
+Invoking command in '/home/yct72/velodyne/velodyne_pointcloud/build/velodyne_pointcloud': /usr/bin/cmake /home/yct72/velodyne/velodyne_pointcloud -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yct72/velodyne/velodyne_pointcloud/install/velodyne_pointcloud
+Invoked command in '/home/yct72/velodyne/velodyne_pointcloud/build/velodyne_pointcloud' returned '1': /usr/bin/cmake /home/yct72/velodyne/velodyne_pointcloud -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/yct72/velodyne/velodyne_pointcloud/install/velodyne_pointcloud

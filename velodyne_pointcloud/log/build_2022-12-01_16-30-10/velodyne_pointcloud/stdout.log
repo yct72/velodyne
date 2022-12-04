@@ -1,0 +1,6 @@
+-- Found ament_cmake: 1.1.5 (/opt/ros/galactic/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found angles: 1.14.0 (/opt/ros/galactic/share/angles/cmake)
+-- Configuring incomplete, errors occurred!
+See also "/home/yct72/velodyne/velodyne_pointcloud/build/velodyne_pointcloud/CMakeFiles/CMakeOutput.log".

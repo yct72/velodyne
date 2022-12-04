@@ -1,0 +1,25 @@
+[0.023s] Invoking command in '/home/yct72/velodyne/velodyne_pointcloud/build/velodyne_pointcloud': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/yct72/velodyne/velodyne_pointcloud -DCMAKE_INSTALL_PREFIX=/home/yct72/velodyne/velodyne_pointcloud/install/velodyne_pointcloud
+[0.045s] -- Found ament_cmake: 1.1.5 (/opt/ros/galactic/share/ament_cmake/cmake)
+[0.073s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.073s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.164s] -- Found angles: 1.14.0 (/opt/ros/galactic/share/angles/cmake)
+[0.182s] CMake Error at CMakeLists.txt:15 (find_package):
+[0.182s]   By not providing "Finddiagnostic_updater.cmake" in CMAKE_MODULE_PATH this
+[0.182s]   project has asked CMake to find a package configuration file provided by
+[0.182s]   "diagnostic_updater", but CMake did not find one.
+[0.182s] 
+[0.182s]   Could not find a package configuration file provided by
+[0.182s]   "diagnostic_updater" with any of the following names:
+[0.183s] 
+[0.183s]     diagnostic_updaterConfig.cmake
+[0.183s]     diagnostic_updater-config.cmake
+[0.183s] 
+[0.183s]   Add the installation prefix of "diagnostic_updater" to CMAKE_PREFIX_PATH or
+[0.183s]   set "diagnostic_updater_DIR" to a directory containing one of the above
+[0.183s]   files.  If "diagnostic_updater" provides a separate development package or
+[0.183s]   SDK, be sure it has been installed.
+[0.184s] 
+[0.184s] 
+[0.184s] -- Configuring incomplete, errors occurred!
+[0.184s] See also "/home/yct72/velodyne/velodyne_pointcloud/build/velodyne_pointcloud/CMakeFiles/CMakeOutput.log".
+[0.186s] Invoked command in '/home/yct72/velodyne/velodyne_pointcloud/build/velodyne_pointcloud' returned '1': CMAKE_PREFIX_PATH=/opt/ros/galactic /usr/bin/cmake /home/yct72/velodyne/velodyne_pointcloud -DCMAKE_INSTALL_PREFIX=/home/yct72/velodyne/velodyne_pointcloud/install/velodyne_pointcloud
